@@ -38,3 +38,5 @@ class Solution:
         
         return root_node
             
+# Time Complexity: O(n)
+# Space Complexity: O(1)
